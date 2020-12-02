@@ -28,6 +28,7 @@ public class AoCDay1 {
 					System.out.println("The two operands are: " + inputs[i] + " " + inputs[x]);
 					System.out.println("The sum of these operands is: " + (inputs[i] + inputs[x]));
 					System.out.println("The product of these operands is: " + inputs[i] * inputs[x]);
+					break;
 				}
 			}
 		}
@@ -43,6 +44,7 @@ public class AoCDay1 {
 						System.out.println("The three operands are: " + inputs[i] + " " + inputs[x] + " " + inputs[j]);
 						System.out.println("The sum of these operands is: " + (inputs[i] + inputs[x] + inputs[j]));
 						System.out.println("The product of these operands is: " + (inputs[i] * inputs[x] * inputs[j]));
+						break;
 					}
 
 				}
